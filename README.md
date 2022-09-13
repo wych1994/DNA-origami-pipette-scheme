@@ -6,4 +6,4 @@ Users are able to modify texts on the plot directly from MATLAB script.
 
 Try running PS_generator.m for demo.
 
-<img src="/sample_PS.png" width="400" height="400"/>
+<img src="/sample_PS.png" width="800" height="400"/>
